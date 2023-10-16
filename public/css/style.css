@@ -1,0 +1,136 @@
+body{
+    font-family: 'Plus Jakarta Sans', sans-serif !important;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.container{
+    flex: 1;
+}
+
+/* navbar */
+.navbar{
+    height: 5rem;
+    background-color: white;
+}
+.fa-compass{
+    color: #fe434d;
+    font-size: 2rem;
+}
+.nav-link{
+    color: black !important;
+}
+
+/* footer */
+.f-info-links a{
+    text-decoration: none;
+    color: black;
+}
+.f-info-links a:hover{
+    text-decoration: underline;
+}
+.f-info-links, .f-info-socials,.f-info-brand{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.f-info-socials i{
+    font-size: 1.2rem;
+    margin-right: 1rem;
+
+}
+.f-info{
+    text-align: center;
+    display: flex;
+    height: 8rem;
+    background-color: #ebebeb;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: space-evenly;
+
+}
+
+/* card */
+.card{
+    border: .5px solid grey;
+    margin-bottom: 1rem;  
+    height: 20rem;
+    /* width: 20rem;   */
+    overflow: hidden; 
+}
+.listing-card{
+    border: none !important;
+
+}
+.card-img-top{
+    width: 100% !important;
+    height: 20rem !important;
+    object-fit: cover !important;  
+    opacity: .9; 
+}
+.navbar-nav{
+    background-color: rgba(255, 255, 255, 0.928);
+    font-weight: 600;
+}
+
+
+/* -------hover effect-------- */
+.show-card-img{
+    /* height: 17rem !important; */
+    overflow: hidden !important;
+    border-radius: 1rem !important;
+}
+.card-img{
+    height: 20rem !important;
+    overflow: hidden !important;
+    border-radius: 1rem !important;
+}
+.card-img-top:hover{
+    transform:  scale(1.25) !important;
+    transition: 1s ease 0s;
+    filter: contrast(1.5);
+    opacity: 1;
+}
+/* -------------- */
+
+.card-body{
+    margin-top: 5px;
+    padding: 0 !important;
+}
+.card-text p{
+    font-weight: 400 !important;
+}
+.listing-link{
+    text-decoration: none !important;
+}
+
+
+/* new.ejs style */
+.add-btn{
+    background-color: #fe424d !important;
+    border: none !important;
+}
+/* edit.ejs style */
+.edit-btn{
+    background-color: #fe424d !important;
+    border: none !important;
+}
+/* show.ejs style */
+.show-img{
+    height: 30vh !important;
+    opacity: 1 !important;
+}
+.btns{
+    display: flex;
+}
+.show-card{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+@media (max-width: 767px){
+ .edit-btn{
+    width: 4rem !important;
+ }   
+}
