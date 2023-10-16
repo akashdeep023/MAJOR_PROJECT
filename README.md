@@ -1,7 +1,7 @@
 # MAJOR PROJECT (WANDERLUST)
 
 ## Description
-### Simon Says is a classic memory game where players must remember and repeat a sequence of colors and sounds. This project is a web-based implementation of the Simon Says game using HTML, CSS, and JavaScript.
+### 
 
 ## How to Use
     - 1st : Click CODE button and download zip file
