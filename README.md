@@ -74,5 +74,7 @@
 
 **Filter Page**
 ![Screenshot 2023-12-10 193647](https://github.com/akashdeep023/MAJOR_PROJECT/assets/126412088/c2f7ecb0-dfb4-483d-b836-470cd54134b2)
+![Screenshot 2023-12-10 201457](https://github.com/akashdeep023/MAJOR_PROJECT/assets/126412088/8f74b3dc-3e5f-41c9-952b-1daaf9ae93a1)
+
 
 ### Thanks for visit... 😊😊😊
