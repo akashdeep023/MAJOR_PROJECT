@@ -1,7 +1,13 @@
-# MAJOR PROJECT (WANDERLUST)
+# MAJOR PROJECT (AIRBNB.COM)
 
 ## Description
-### 
+### This project is an attempt to create a simplified version of the Airbnb website using Node.js, Express, MongoDB, EJS, and CSS.
+
+## Features
+- User Authentication: Allow users to sign up, log in, and log out.
+- Property Listings: Display a list of properties, including details, map and images.
+- User : Enable users to create, edit, delete listings and create, delete reviews properties.
+<!-- User Dashboard: Provide a dashboard for users to manage their bookings and profile. -->
 
 ## How to Use
     - 1st : Click CODE button and download zip file
@@ -19,7 +25,19 @@
    5. EXPRESS
    6. MONGODB
    7. EJS
+   8. BOOTSTRAP
+   9. MVC (MODEL, VIEW, CONTROLLER) AND ETC..
 
+## Package used :
+   1. mongoose-atlas
+   2. password
+   3. flash
+   4. session
+   5. multer
+   6. mapbox
+   7. cookies
+   8. doenv
+   9. cloudinary and etc..
 ## Author :
    Akash Deep
    Email: ad3500476@gmail.com
@@ -57,4 +75,4 @@
 **Filter Page**
 ![Screenshot 2023-12-10 193647](https://github.com/akashdeep023/MAJOR_PROJECT/assets/126412088/c2f7ecb0-dfb4-483d-b836-470cd54134b2)
 
-### Thanks for visit...
+### Thanks for visit... 😊😊😊
