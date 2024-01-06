@@ -46,7 +46,7 @@
    LinkedIn : https://www.linkedin.com/in/akashdeep023/
 
 ## Website Link :
-- https://airbnb-project-jack.onrender.com/listings
+- https://airbnb-com-project-jack.onrender.com/listings
 
 ## Ex- Image
 **Home Page**
